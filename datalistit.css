@@ -1,0 +1,11 @@
+.dli_error {
+	color:red;
+}
+
+.dli_paginate > a {
+	margin-left: 5px;
+	cursor: pointer;
+}
+.odd {
+	background-color: #f9f9f9;
+}
